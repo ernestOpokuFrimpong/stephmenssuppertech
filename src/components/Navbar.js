@@ -29,21 +29,21 @@ const Navbar = () => {
                                 <div className="w-full lg:w-1/2 p-4">
                                     <h3 className="text-lg font-semibold mb-2">Printing Services</h3>
                                     <ul className="space-y-2">
-                                        <li><a href="./" className="block px-6 py-2 hover:bg-blue-700 hover:text-white lg:hover:bg-yellow-500 lg:hover:text-blue-700">Lamination</a></li>
-                                        <li><a href="./" className="block px-6 py-2 hover:bg-blue-700 hover:text-white lg:hover:bg-yellow-500 lg:hover:text-blue-700">Large Format Printing</a></li>
-                                        <li><a href="./" className="block px-6 py-2 hover:bg-blue-700 hover:text-white lg:hover:bg-yellow-500 lg:hover:text-blue-700">Magazines & Brochures</a></li>
-                                        <li><a href="./" className="block px-6 py-2 hover:bg-blue-700 hover:text-white lg:hover:bg-yellow-500 lg:hover:text-blue-700">DTF Printing</a></li>
-                                        <li><a href="./" className="block px-6 py-2 hover:bg-blue-700 hover:text-white lg:hover:bg-yellow-500 lg:hover:text-blue-700">Signage Printing & Installation</a></li>
+                                        <li><a href="./" className="block px-6 py-2 hover:bg-blue-700 hover:text-white rounded-lg transition duration-300">Lamination</a></li>
+                                        <li><a href="./" className="block px-6 py-2 hover:bg-blue-700 hover:text-white rounded-lg transition duration-300">Large Format Printing</a></li>
+                                        <li><a href="./" className="block px-6 py-2 hover:bg-blue-700 hover:text-white rounded-lg transition duration-300">Magazines & Brochures</a></li>
+                                        <li><a href="./" className="block px-6 py-2 hover:bg-blue-700 hover:text-white rounded-lg transition duration-300">DTF Printing</a></li>
+                                        <li><a href="./" className="block px-6 py-2 hover:bg-blue-700 hover:text-white rounded-lg transition duration-300">Signage Printing & Installation</a></li>
                                     </ul>
                                 </div>
                                 <div className="w-full lg:w-1/2 p-4">
                                     <h3 className="text-lg font-semibold mb-2">IT Support Services</h3>
                                     <ul className="space-y-2">
-                                        <li><a href="./" className="block px-6 py-2 hover:bg-blue-700 hover:text-white lg:hover:bg-yellow-500 lg:hover:text-blue-700">Network Setup</a></li>
-                                        <li><a href="./" className="block px-6 py-2 hover:bg-blue-700 hover:text-white lg:hover:bg-yellow-500 lg:hover:text-blue-700">Hardware Support</a></li>
-                                        <li><a href="./" className="block px-6 py-2 hover:bg-blue-700 hover:text-white lg:hover:bg-yellow-500 lg:hover:text-blue-700">Software Installation</a></li>
-                                        <li><a href="./" className="block px-6 py-2 hover:bg-blue-700 hover:text-white lg:hover:bg-yellow-500 lg:hover:text-blue-700">IT Consulting</a></li>
-                                        <li><a href="./" className="block px-6 py-2 hover:bg-blue-700 hover:text-white lg:hover:bg-yellow-500 lg:hover:text-blue-700">Cybersecurity</a></li>
+                                        <li><a href="./" className="block px-6 py-2 hover:bg-blue-700 hover:text-white rounded-lg transition duration-300">Network Setup</a></li>
+                                        <li><a href="./" className="block px-6 py-2 hover:bg-blue-700 hover:text-white rounded-lg transition duration-300">Hardware Support</a></li>
+                                        <li><a href="./" className="block px-6 py-2 hover:bg-blue-700 hover:text-white rounded-lg transition duration-300">Software Installation</a></li>
+                                        <li><a href="./" className="block px-6 py-2 hover:bg-blue-700 hover:text-white rounded-lg transition duration-300">IT Consulting</a></li>
+                                        <li><a href="./" className="block px-6 py-2 hover:bg-blue-700 hover:text-white rounded-lg transition duration-300">Cybersecurity</a></li>
                                     </ul>
                                 </div>
                             </div>
